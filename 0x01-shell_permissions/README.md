@@ -48,8 +48,8 @@ This script adds execute permission to all subdirectories of current directory f
 
 12-directory_permissions
 
-This script creates a directory called dir_dhk with permissions 751 in the working directory
+This script creates a directory called my_dir with permissions 751 in the working directory
 
 13-change_group
 
-This script changes group owner to dhk for the file hello
+This script changes group owner to school for the file hello
