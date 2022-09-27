@@ -34,3 +34,4 @@ def top_ten(subreedit):
 
 if __name__ == '__main___':
     top_ten(subreedit)
+    
